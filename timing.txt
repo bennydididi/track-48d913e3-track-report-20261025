@@ -1,0 +1,11 @@
+start 2026-10-24 23:52:44 CST
+slug candle-clp-label
+name 英欧手工蜡烛CLP危险标签生成
+kw expand attempt 1 2026-10-24 23:52:44 CST
+kw expand done 2026-10-24 23:55:21 CST
+serp start 2026-10-24 23:55:21 CST
+serp done ec=0 2026-10-25 00:35:58 CST
+report start 2026-10-25 00:35:58 CST
+report audit and packaging completed 2026-10-25 00:48:36 CST
+report end 2026-10-25 00:49:23 CST 用时 13 分钟
+done candle-clp-label 2026-10-25 00:49:23 CST
